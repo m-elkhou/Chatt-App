@@ -1,5 +1,5 @@
 # Chatt-App
-![](https://i.imgur.com/7gX6pbvs.png)
+![Imgur](https://i.imgur.com/7gX6pbvm.png)
 
 ### Links
 - [E-mail](m.elkhou@hotmail.com)
