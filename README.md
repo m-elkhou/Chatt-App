@@ -4,6 +4,8 @@ Desktop App for messaging and sharing file created with Java RMI Technology and 
 
 ![Imgur](https://i.imgur.com/7gX6pbvl.png)
 
+Screenshots of the application can be found in the [Wiki page](https://github.com/m-elkhou/Chatt-App/wiki).
+
 ***
 ### Links
 - [E-mail : ](mailto:m.elkhou@hotmail.com) m.elkhou@hotmail.com
