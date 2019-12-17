@@ -8,6 +8,7 @@ Screenshots of the application can be found in the [Wiki page](https://github.co
 
 ***
 ### Links
+
 - [E-mail : ](mailto:m.elkhou@hotmail.com) m.elkhou@hotmail.com
-- [Linkedin](https://www.linkedin.com/in/m-elkhou/)
-- [GitHub](https://github.com/m-elkhou)
+- [Linkedin](https://www.linkedin.com/in/m-elkhou/) m-elkhou
+- [GitHub](https://github.com/m-elkhou) m-elkhou
